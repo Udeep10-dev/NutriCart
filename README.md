@@ -32,29 +32,28 @@ The app provides a smooth shopping experience: categorized seeds, detailed produ
 ---
 
 ## "📸 Screenshots", 
-(Place your images in `/screenshots`)
+
+### 🌾 Onboard Screens, 
+<img src="screenshots/1.jpg" alt="Onboard Screens 01" width="300"/>
+<img src="screenshots/2.jpg" alt="Onboard Screens 02" width="300"/>
+<img src="screenshots/3.jpg" alt="Onboard Screens 03" width="300"/>
 
 ### 🌾 Home Screen, 
-`<img src="screenshots/home.png" alt="Home Screen" width="300"/>`
+<img src="screenshots/7.jpg" alt="Home Screen" width="300"/>
 
 ### 👤 Login Screen, 
-`<img src="screenshots/login.png" alt="Login Screen" width="300"/>`
+<img src="screenshots/5.jpg" alt="Login Screen" width="300"/>
+<img src="screenshots/6.jpg" alt="Login Screen" width="300"/>
 
 ### 🌱 Product Details, 
-`<img src="screenshots/details.png" alt="Product Details" width="300"/>`
+<img src="screenshots/8.jpg" alt="Product Details" width="300"/>
 
 ### 🛒 Cart Screen, 
-`<img src="screenshots/cart.png" alt="Cart Screen" width="300"/>`
+<img src="screenshots/9.jpg" alt=" Cart Screen" width="300"/>
 
-### 🧾 Order History, 
-`<img src="screenshots/orders.png" alt="Orders Screen" width="300"/>`
 
-### 🔍 Search Screen, 
-`<img src="screenshots/search.png" alt="Search Screen" width="300"/>`
-
----
 
 ## "🔧 Installation & Setup", 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/NutriCart.git
+   git clone https://github.com/Udeep10-dev/NutriCart.git
