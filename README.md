@@ -5,9 +5,9 @@
 ---
 
 ## "📖 Overview", 
-NutriCart is an **Android-based online seed shopping application**, designed for farmers, gardeners, and plant lovers to easily browse, purchase, and learn about high-quality seeds  anytime, anywhere.
+NutriCart is an **Android-based online seed shopping application**, designed for farmers, gardeners and plant lovers to easily browse, purchase and learn about high-quality seeds  anytime, anywhere.
 
-The app provides a smooth shopping experience: categorized seeds, detailed product descriptions, cart management, and order history. Built with Android Studio, NutriCart focuses on clean UI, simplicity, and a seamless user flow.
+The app provides a smooth shopping experience: categorized seeds, detailed product descriptions, cart management and order history. Built with Android Studio, NutriCart focuses on clean UI, simplicity and a seamless user flow.
 
 ---
 
@@ -18,8 +18,6 @@ The app provides a smooth shopping experience: categorized seeds, detailed produ
 - 🛒 **Shopping Cart** – Add, remove, update quantities, calculate totals.
 - 🧾 **Order Management** – Place orders, view history, order status (optional).
 - 🔍 **Search** – Fast product search by name, category, or tag.
-- ❤️ **Favorites** (optional) – Save seeds to wishlist.
-- 🔄 **Real-Time DB** – Auto-updating product data via Firebase/Firestore.
 
 ---
 
